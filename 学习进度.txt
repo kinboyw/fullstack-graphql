@@ -1,0 +1,9 @@
+学习GraphQL，完成一个基于 Apollo GraphQL 的全栈开发项目
+
+当前进度为，官网第二章节，后端搭建，地址：https://www.apollographql.com/docs/tutorial/schema
+The GraphQL & React Tutorial https://blog.hichroma.com/graphql-react-tutorial/home
+启动后端服务
+cd ./start/server/
+yarn start
+
+
